@@ -1,6 +1,6 @@
 {
-  "name": "registry-js",
-  "version": "1.9.0",
+  "name": "@httptoolkit/registry-js",
+  "version": "1.9.1-node14",
   "description": "A simple and opinionated library for working with the Windows registry",
   "main": "dist/lib/index.js",
   "typings": "dist/lib/index.d.ts",
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/desktop/registry-js.git"
+    "url": "git+https://github.com/httptoolkit/registry-js.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/desktop/registry-js/issues"
+    "url": "https://github.com/httptoolkit/registry-js/issues"
   },
-  "homepage": "https://github.com/desktop/registry-js#readme",
+  "homepage": "https://github.com/httptoolkit/registry-js#readme",
   "devDependencies": {
     "@types/benchmark": "^1.0.31",
     "@types/jest": "^24.0.0",
